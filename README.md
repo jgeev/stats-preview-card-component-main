@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [#]
+- [Live Site](https://jgeev.github.io/stats-preview-card-component-main/)
 
 ## My process
 
@@ -54,7 +54,7 @@ Learnt how to add overlay using divs
 
 ### Useful resources
 
-- [Example resource 1](https://blog.logrocket.com/guide-image-overlays-css/) - This helped me with overlay.
+- [Resource](https://blog.logrocket.com/guide-image-overlays-css/) - This helped me with overlay.
 
 ## Author
 
